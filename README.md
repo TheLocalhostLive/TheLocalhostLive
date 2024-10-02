@@ -2,10 +2,6 @@
 
 ## Meet the Cofounders
 
-- **Joydeep Bhattacharjee** [🔗](https://github.com/joydeep2001)
-- **Arpan Das** [🔗](https://github.com/arpan4119)
-- **Tonmay Sardar** [🔗](https://github.com/Ant-Tonmay)
-
 ## Mission 🚀
 
 Our mission is to bring our innovative ideas to life and make a tangible impact through technology. We are passionate about transforming concepts into real-world solutions.
